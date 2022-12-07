@@ -2,7 +2,10 @@
 
 ## Description
 
-This app is using PostgreSQL for Database and yarn as package manager.
+This app is using: 
+- PostgreSQL for Database
+- Yarn as package manager.
+- NestJS as Framework.
 
 ## Assumptions & Comments
 
@@ -18,6 +21,8 @@ $ yarn install
 ```
 
 ## Running the app
+
+Copy file _.env.sample_ to _.env_ and update values to match your environment.
 
 ```bash
 # development
